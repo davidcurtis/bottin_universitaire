@@ -7,6 +7,6 @@ Retrouvez toutes les informations sur ce projet dans cet article :
 ===> curtisdavid.blogspot.ca
 
 Auteur : David Curtis 
-emai: david.curtis@libbster.com
+email: david.curtis@libbster.com
 
 
