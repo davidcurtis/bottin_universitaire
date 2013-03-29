@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Bottin DetR\Bottin DetR\bin\Bottin DetR.dll
+C:\Users\Dell\Desktop\Bottin DetR\Bottin DetR\bin\Bottin DetR.pdb
+C:\Users\Dell\Desktop\Bottin DetR\Bottin DetR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.dll
+C:\Users\Dell\Desktop\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.pdb
+C:\Users\addarazi\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.dll
+C:\Users\addarazi\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.pdb
+C:\Users\addarazi\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\addarazi\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.dll
+C:\Users\addarazi\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.pdb
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.pdb
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.pdb

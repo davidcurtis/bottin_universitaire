@@ -1,0 +1,10 @@
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\bin\Bottin DetR.pdb
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin universitaire.csprojResolveAssemblyReference.cache
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin DetR\Bottin DetR\Bottin DetR\obj\Debug\Bottin DetR.pdb
+C:\Users\curtis\Desktop\Bottin Universitaire\Bottin Universitaire\Bottin DetR\bin\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin Universitaire\Bottin Universitaire\Bottin DetR\bin\Bottin DetR.pdb
+C:\Users\curtis\Desktop\Bottin Universitaire\Bottin Universitaire\Bottin DetR\obj\Debug\Bottin universitaire.csprojResolveAssemblyReference.cache
+C:\Users\curtis\Desktop\Bottin Universitaire\Bottin Universitaire\Bottin DetR\obj\Debug\Bottin DetR.dll
+C:\Users\curtis\Desktop\Bottin Universitaire\Bottin Universitaire\Bottin DetR\obj\Debug\Bottin DetR.pdb
